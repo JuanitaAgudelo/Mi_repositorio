@@ -65,6 +65,8 @@ if num>=0 and num<4000:
 else:
     print('datos no validos (Numeros enteros y menor de 4000')
 
+print("Hola mundo, estoy practicando con git")
+
 #terminar el probelma con las rayas encima ajja     
 
     
